@@ -6,3 +6,6 @@ This repository will remind me of what I learned about RNNs with Udacity.
 
 See **time-series** folder.
 
+## Step 2. Character-level RNN.
+
+See **char-rnn** folder.
