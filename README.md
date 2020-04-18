@@ -9,3 +9,7 @@ See **time-series** folder.
 ## Step 2. Character-level RNN.
 
 See **char-rnn** folder.
+
+## Step 3. Learn how to train word embeddings.
+
+See **word2vec-embeddings** folder.
