@@ -13,3 +13,7 @@ See **char-rnn** folder.
 ## Step 3. Learn how to train word embeddings.
 
 See **word2vec-embeddings** folder.
+
+## Step 4. Learn how to use RNN for sentiment anaysis.
+
+See **sentiment-rnn** folder.
